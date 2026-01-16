@@ -10,7 +10,7 @@ import { Icon } from "@iconify/vue";
       Platform.
     </h1>
     <p class="text-white/60 text-base sm:text-lg mb-18">
-      The competitive GTA V multiplayer client — scalable, fast, and built for
+      The next-gen unofficial GTA V multiplayer client — scalable, fast, and built for
       performance.
     </p>
 

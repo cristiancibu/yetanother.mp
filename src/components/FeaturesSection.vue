@@ -24,7 +24,7 @@ const features: Feature[] = [
     icon: "mdi:sync",
     title: "Server-Side Authority",
     description:
-      "Server-side authority and competitive synchronization for high player loads.",
+      "Server-side authority and next-gen synchronization for high player loads.",
   },
   {
     icon: "mdi:account-circle-outline",

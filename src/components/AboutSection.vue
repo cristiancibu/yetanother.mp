@@ -25,7 +25,7 @@
       </p>
       <p class="text-white/80 leading-relaxed mb-6 text-lg">
         On the technical side, our goals include <em>server-side authority</em>,
-        <em>rich APIs</em>, and <em>competitive synchronization</em> with high
+        <em>rich APIs</em>, and <em>next-gen synchronization</em> with high
         player loads.
       </p>
 
